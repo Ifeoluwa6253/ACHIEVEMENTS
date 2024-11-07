@@ -20,4 +20,5 @@ I'm a dedicated Data Analyst with a degree in Computer Science and certification
 - *Certification*: Data Analytics Certification  
 
 *💬 Let’s Connect!*  
-Feel free to reach out via [LinkedIn](http://www.linkedin.com/in/aruleba6253) or [GitHub](https://github.com/Ifeoluwamia).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](http://www.linkedin.com/in/aruleba6253) 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Ifeoluwamia)
